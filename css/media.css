@@ -1,0 +1,78 @@
+@media screen and (min-width: 768px) {
+
+  .img {
+    
+  }
+
+  .title {
+    font-size: 48px;
+  }
+  
+  .services-block {
+    margin-bottom: 50px;
+  }
+
+  .service-text {
+    width: 75%;
+  }
+
+  .perfect-block__text {
+    text-align: left;
+  }
+
+  .perfect-block__disc {
+    font-size: 14px;
+  }
+
+  .pf-list li{
+    font-size: 14px;
+  }
+
+  .perfect-text {
+    font-size: 30px;
+  }
+
+  .pf-text-2 {
+    order: -1;
+  }
+  
+  .perfect-block {
+    margin-bottom: 100px;
+  }
+  
+}
+
+@media screen and (min-width: 1140px) {
+
+  .services-block {
+    margin-bottom: 100px;
+  }
+
+  .perfect-block__text {
+    padding-left: 50px;
+  }
+
+  .pf-text-2 {
+    padding-left: 12px;
+  }
+
+  .perfect-text {
+    width: 80%;
+  }
+
+  .perfect-block__text p {
+    width: 80%;
+  }
+
+  .perfect-block {
+    margin-bottom: 145px;
+  }
+
+  .cards-container {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  
+
+}
